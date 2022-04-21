@@ -1,0 +1,2 @@
+# testbot
+Birinshi test bot
